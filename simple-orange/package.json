@@ -1,0 +1,21 @@
+{
+    "name": "simple-orange",
+    "displayName": "simple-orange",
+    "description": "a simple orange theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Simple Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/simple-orange-color-theme.json"
+            }
+        ]
+    }
+}

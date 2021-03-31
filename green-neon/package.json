@@ -1,0 +1,21 @@
+{
+    "name": "green-neon",
+    "displayName": "Green Neon",
+    "description": "Green Neon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Green Neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green Neon-color-theme.json"
+            }
+        ]
+    }
+}

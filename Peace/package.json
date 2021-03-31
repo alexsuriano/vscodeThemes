@@ -1,0 +1,21 @@
+{
+    "name": "Peace",
+    "displayName": "Peace",
+    "description": "Serenity",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Peace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Peace-color-theme.json"
+            }
+        ]
+    }
+}
